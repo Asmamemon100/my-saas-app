@@ -1,5 +1,5 @@
 const CompanionsLibrary = () => {
-  return (
+return (
     <div>CompanionsLibrary</div>
   );
 };
